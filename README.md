@@ -4,7 +4,7 @@
 
 ## About
 
-This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
+Hapiness enables your Salesforce org to extend integrations to external objects using the same methodology you use to build workflows using internal objects
 
 ## Getting Started
 
